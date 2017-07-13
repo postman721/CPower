@@ -1,8 +1,6 @@
 # CPower
 Repository for ++Power (C++ program)
 
-++Power (C++)
-
 A program written with C++ for system rebooting, suspension and powering off. The overall content is about 70 lines long.
 
 ![power x70132](https://user-images.githubusercontent.com/29865797/28171527-5c8f78d6-67f1-11e7-8c6e-89bab03400cc.jpg)
